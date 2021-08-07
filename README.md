@@ -6,7 +6,7 @@ Full Notebook Report : https://github.com/tripathiGithub/Binary_Classification_o
 
 # Target Distribution
 ![image](https://github.com/amancrackpot/ML_Classification/blob/main/Results/targetDist.png)
-### It was an imbalamce classification problem
+### It was an imbalance binary classification problem
 - I used 'class_weight' to deal with the imbalance, it allows models to give more weightage to minority class 
 
 # Models Experimented:
