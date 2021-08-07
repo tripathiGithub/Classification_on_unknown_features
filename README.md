@@ -24,7 +24,7 @@ Full Notebook Report : https://github.com/tripathiGithub/Classification_on_unkno
 # Model Comparisions:
 ![image](https://github.com/tripathiGithub/Classification_on_unknown_features/raw/main/Results/modelCompare.png)
 
-## Best Model - CatBoost with PR-AUC = 0.42 and F1 score = 0.52 (on validation set)
+## Best Model - CatBoost with PR-AUC = 0.44 and F1 score = 0.52 (on validation set)
 ![image](https://github.com/tripathiGithub/Classification_on_unknown_features/raw/main/Results/bestmodel.png)
 
 # Test set Results:
